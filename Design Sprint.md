@@ -43,13 +43,14 @@ A design sprint consists of 5 phases carried over 5 days.
 
 ## Understand
 
-
+- understand the challenge
 ## Ideate
 
 - brainstorm solutions
 ## Decide
 
 - converge on a solution
+- schedule user tests
 ## Prototype
 
 - make a working testable mvp
@@ -58,3 +59,6 @@ A design sprint consists of 5 phases carried over 5 days.
 - observe users using the prototype
 - interview users about their experience using the prototype
 
+# After The Sprint
+
+Once the sprint is complete, schedule a [Retrospective](Retrospective.md).
