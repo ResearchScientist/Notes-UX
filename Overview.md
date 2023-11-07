@@ -36,7 +36,7 @@
 # Shape
 
 |research|ui|interaction|motion|visual|write|engineer|pm|
-|--|--|--|--|--|--|--|--|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |x|x|x|x|x|x|x|x|
 |x|||||x|x|x|
 |x|||||||x|

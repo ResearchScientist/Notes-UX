@@ -7,4 +7,3 @@
 |Prototype|Model that demonstrates the intended functionality.|
 |Responsive Web Design|Layout dynamically changes to accommodate a change in screen size or orientation.|
 |Wireframe|Outline or sketch of a product or screen.|
-
