@@ -4,23 +4,15 @@
 - wireframes hi fi
 - responsive
 
+qualitative
+- interviews
+
 # ux goals
 
 - is it easy to use
 - is it equitable
 - does it delight
 - does it solve the problem
-
-# Ideal
-
-- research
-	- discover
-	- define
-	- develop
-	- deliver
-- design
-- validate
-- implement
 
 # Portfolio
 
@@ -96,4 +88,16 @@ twitter
 - tag them on replies
 
 medium
+
+---
+
+- empathy map
+- pain points
+- personas
+- user stories
+- happy paths
+- journey map
+- problem statement
+- hypothesis statement
+- accessibility
 

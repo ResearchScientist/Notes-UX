@@ -1,2 +1,4 @@
-- communication
-- empathy
+- collaborative
+- communicative
+- empathetic
+- pragmatic

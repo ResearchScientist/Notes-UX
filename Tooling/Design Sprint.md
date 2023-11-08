@@ -61,4 +61,4 @@ A design sprint consists of 5 phases carried over 5 days.
 
 # After The Sprint
 
-Once the sprint is complete, schedule a [Retrospective](Retrospective.md).
+Once the sprint is complete, schedule a [Retrospective](Tooling/Retrospective.md).

@@ -1,11 +1,3 @@
-# Five Elements
-
-- strategy : user needs and objectives
-- scope : content and features
-- structure : user interactivity
-- skeleton : product
-- surface : ui
-
 # Design Thinking
 
 - empathise : discover user needs
@@ -13,6 +5,21 @@
 - ideate : solutions
 - prototype : mvp
 - test : validate or improve or change
+
+# Double Diamond
+
+- discover
+- define
+- develop
+- deliver
+
+# Five Elements
+
+- strategy : user needs and objectives
+- scope : content and features
+- structure : user interactivity
+- skeleton : product
+- surface : ui
 
 # User Centered Design
 
@@ -39,4 +46,3 @@ These are some challenges to design for.
 - connectivity : they may reside in areas with slower or intermittent network traffic
 - digital literacy : they may be unfamiliar with established norms and expectations
 - literacy : the interfaces they usually use are different than what is found in this space
-
