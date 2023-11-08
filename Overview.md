@@ -24,6 +24,31 @@
 
 # Portfolio
 
+## landing page
+
+above the fold
+
+- name
+- intro description
+- specialty
+
+may want to include some validation criteria
+## about me
+
+- type of work
+- passions
+- current work
+- credentials
+- awards
+- clients
+- projects
+- contact
+	- email
+	- contact form
+	- social media 
+
+## studies
+
 for a study include
 
 - project name
@@ -38,6 +63,11 @@ for a study include
 - final design
 - learnings
 
+## copy
+
+- be as brief as possible
+- do not be verbose
+- include keywords
 # Brand
 
 - what am I naturally good at
@@ -66,3 +96,4 @@ twitter
 - tag them on replies
 
 medium
+
