@@ -1,10 +1,12 @@
 UX Research occurs throughout the product development lifecycle.
-# Foundational Research
+
+# Research Categories
+## Foundational Research
 
 Occurs prior to the design phase.
 Can also be called strategic or generative.
 
-## Goal
+### Goal
 
 To define the problem.
 
@@ -14,16 +16,16 @@ Answer the following questions
 - how can we solve them
 - what should we build
 
-## Strategies
+### Strategies
 
 - user interviews
 
-# Design Research
+## Design Research
 
 Occurs during the design phase.
 Can also be called tactical.
 
-## Goal
+### Goal
 
 To inform on the design.
 
@@ -33,22 +35,60 @@ Answers the following question
 - what are the friction points the user encounters during the prototyping
 - how can we remove those friction points
 
-## Strategies
+### Strategies
 
 - user interviews
 	- how was your prototype experience
 	- was it easy to use why
 	- did you encounter any challenges
 
-# Post Launch Research
+## Post Launch Research
 
 Occurs after the design phase.
 
-## Goal
+### Goal
 
 To evaluate how well a product is meeting the user needs.
 
 Answers the question
 
 - did we succeed
+
+### Strategies
+
+- interviews
+
+# Methods
+
+- interviews : individually gather opinions, thoughts, experiences, feelings
+- surveys : same question given to many respondents
+- usability study : product evaluation by testing it on users
+
+# Biases
+
+Types of biases and how to overcome them.
+
+- confirmation bias : looking for evidence to prove a held hypothesis
+	- actively listen
+	- ask open ended questions
+	- large diverse n
+	- consistent interview method
+- false consensus bias : overestimation of n who agree with us
+	- identify and articulate your assumptions
+	- large diverse n
+	- consistent interview method
+- primacy bias : memory of first encounter is strongest
+	- make a recording
+	- take detailed notes
+	- consistent interview method
+- recency bias : easier to remember the last thing encountered
+	- make a recording
+	- take detailed notes
+	- consistent interview method
+- implicit bias : attitudes and stereotypes attributed to others without our awareness
+	- reflect on our behaviours
+	- ask others to point out our biases
+- sunk cost fallacy : the more invested into a project the more difficult to change
+	- break project into phases
+	- outline evaluation points where you can decide to continue or stop
 
