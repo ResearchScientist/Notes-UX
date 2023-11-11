@@ -91,7 +91,7 @@ medium
 
 ---
 
-- empathy map
+- [x] empathy map
 - pain points
 - personas
 - user stories

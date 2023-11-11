@@ -92,3 +92,16 @@ Types of biases and how to overcome them.
 	- break project into phases
 	- outline evaluation points where you can decide to continue or stop
 
+# Pain Points
+
+Categories for user struggles.
+
+- financial : such as a paywall
+- product : the delivered feature itself is flawed
+- process : user flow is interrupted
+- service : user needs assistance but cs or onboarding is not adequate
+
+# User Stories
+
+
+
