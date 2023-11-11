@@ -1,10 +1,4 @@
-# Discover
-
-- gather data from user interviews
-- identify the main user group
-- detail their goals and frustrations
-
-# Inform
+# Format
 
 - draw an image or picture to represent the user
 - give only relevant demographic information

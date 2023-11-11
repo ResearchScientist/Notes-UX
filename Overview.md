@@ -1,12 +1,3 @@
-- start design
-- wireframes low fi
-- research / test
-- wireframes hi fi
-- responsive
-
-qualitative
-- interviews
-
 # ux goals
 
 - is it easy to use
@@ -88,16 +79,4 @@ twitter
 - tag them on replies
 
 medium
-
----
-
-- [x] empathy map
-- pain points
-- personas
-- user stories
-- happy paths
-- journey map
-- problem statement
-- hypothesis statement
-- accessibility
 

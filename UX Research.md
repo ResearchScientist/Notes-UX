@@ -101,7 +101,15 @@ Categories for user struggles.
 - process : user flow is interrupted
 - service : user needs assistance but cs or onboarding is not adequate
 
-# User Stories
+# Edge Cases
+
+Identify by
+
+- making personas
+- making user stories
+- making wireframes
+- thoroughly reviewing the product prior to launch
+
 
 
 

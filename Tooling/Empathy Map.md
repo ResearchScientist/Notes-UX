@@ -1,6 +1,4 @@
 What is known about a particular type of user.
-
-Information can be obtained from interviews.
 # Format
 
 You can use stickies and a board or software.

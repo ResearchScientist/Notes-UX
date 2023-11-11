@@ -2,7 +2,7 @@ User stories are short scenarios that illustrate a user going through the proces
 
 # Benefits
 
-- help personalize the pitches to steakholders
+- help personalize the pitches to stakeholders
 - when comparing various user stories they help prioritize design goals
 
 # Format
@@ -12,4 +12,3 @@ User stories are short scenarios that illustrate a user going through the proces
 - conflict
 
 As a { user type }, I want to { action }, so that { benefit }.
-
