@@ -109,7 +109,3 @@ Identify by
 - making user stories
 - making wireframes
 - thoroughly reviewing the product prior to launch
-
-
-
-
