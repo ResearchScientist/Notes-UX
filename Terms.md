@@ -6,6 +6,7 @@
 |Edge Cases|Issues beyond the user's control.|
 |Empathy|The ability to understand someone else's feelings or thoughts in a situation.|
 |Empathy Map|Chart illustrating what is known about a particular user type.|
+|Goal Statement|Ideal design solution.|
 |Happy Path|A user story with a happy ending.|
 |Human Factors|Variables humans introduce into product interactions.|
 |Information Architecture|Framework diagraming the internal structure, organization, or categorization of a product.|

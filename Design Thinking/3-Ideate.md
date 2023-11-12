@@ -1,3 +1,5 @@
+When ideating have a [Persona](Tooling/Persona.md) or [User Story](Tooling/User%20Story.md) in place to remind the team of who you are solving for.
+
 # Brainstorm
 
 - have a diverse team from different departments and backgrounds
