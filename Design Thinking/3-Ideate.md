@@ -1,7 +1,3 @@
-- [x] competitive audit
-- [ ] how might we
-- [ ] crazy eights
-
 # Brainstorm
 
 - have a diverse team from different departments and backgrounds
@@ -47,3 +43,40 @@ Is it
 - analyse
 	- identify trends and themes
 - summarise findings
+
+# How Might We
+
+A one sentence prompt for exploring many possible solutions collaboratively.
+
+How might we { goal to be solved for }.
+
+**Example**
+
+> How might we design a cake that is tasty and filling but not too heavy to carry by one individual?
+
+The prompt should not be too restrictive nor too broad.
+
+**Prompt Tips**
+
+- make multiple prompts
+- highlight an emotional experience
+- explore the opposite goal
+- change the status quo
+- break up the goal into smaller goals, write one prompt for each smaller goal
+
+# Crazy Eights
+
+Sketching exercise in which any idea is valid regardless of feasibility or realism.
+
+**Supplies**
+
+- paper with 8 sections or grids
+- sharpies
+- pencils
+- timer
+
+**Process**
+
+- present [Problem Statement](Design%20Thinking/2-Define.md#Problem%20Statement)
+- allot one minute to sketch a solution
+- repeat for a total of 8 minutes for a total of 8 solutions
