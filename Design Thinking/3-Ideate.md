@@ -1,5 +1,11 @@
 When ideating have a [Persona](Tooling/Persona.md) or [User Story](Tooling/User%20Story.md) in place to remind the team of who you are solving for.
 
+# Process
+
+- ideate solutions with a [Brainstorm](#Brainstorm), [How Might We](#How%20Might%20We), or [Crazy Eights](#Crazy%20Eights) session
+- evaluate solutions
+- sort solutions
+
 # Brainstorm
 
 - have a diverse team from different departments and backgrounds

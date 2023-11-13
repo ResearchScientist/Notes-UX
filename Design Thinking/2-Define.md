@@ -1,7 +1,7 @@
 # Process
 
 - define the problem to be solved with a [Problem Statement](#Problem%20Statement)
-- hypothesise solutions to the problem with a [Hypothesis Statement](#Hypothesis%20Statement)
+- hypothesize solutions to the problem with a [Hypothesis Statement](#Hypothesis%20Statement)
 
 # Problem Statement
 
@@ -12,6 +12,8 @@ One sentence that describes the user, their goal, and the reason for their goal.
 **Example**
 
 > Pusheen is a cat who needs to go to the gym because the cakes are getting heavier.
+
+You can use a [Persona](Tooling/Persona.md) to identify the user and the user characteristics, a [User Story](Tooling/User%20Story.md) to identify what the user needs and an [Empathy Map](Tooling/Empathy%20Map.md) to identify why they need to meet that goal.
 
 A well defined problem statement informs
 

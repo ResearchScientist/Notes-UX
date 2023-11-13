@@ -2,15 +2,14 @@
 
 Goal is to understand the user's needs, goals, and pain points.
 
+# Process
+
+- [Discover](#Discover) who the user is and what their needs are
+- [Inform](#Inform) team on the user's goals, motivations, and pain points
+
 # Discover
 
 Make a central hub for documenting your learnings about your users. 
-
-**Map**
-
-- gather data from observational interviews
-
-Illustrate your findings with an [Empathy Map](Tooling/Empathy%20Map.md).
 
 **Persona**
 
@@ -21,6 +20,12 @@ Illustrate your findings with an [Empathy Map](Tooling/Empathy%20Map.md).
 Draw a [Persona](Tooling/Persona.md) to represent the main user group.
 
 You will need multiple personas to capture various key user groups.
+
+**Map**
+
+- gather data from observational interviews
+
+Illustrate your findings with an [Empathy Map](Tooling/Empathy%20Map.md).
 
 # Inform
 
