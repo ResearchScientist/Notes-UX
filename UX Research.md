@@ -109,3 +109,10 @@ Identify by
 - making user stories
 - making wireframes
 - thoroughly reviewing the product prior to launch
+
+# Methods
+
+- ethnography : contextual environmental immersion
+	- observations
+	- interviews
+- information architecture
