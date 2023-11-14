@@ -1,3 +1,6 @@
+A journey map is a visualization of the process a user goes through to achieve a goal.
+Focus is on insights.
+
 # Benefits
 
 - helps design friction point free paths for the user
@@ -19,7 +22,9 @@ Goal : To get to the cake store before it closes.
 
 |Task|Find out the store hours.|Find the fastest route to the store.|Get to the store.|
 |--|--|--|--|
+|Thoughts|What time do they close?|Don't close!|Yumm.|
 |Actions|<ul><li>call store</ul>|<ul><li>search google maps</ul>|<ul><li>hop on bike<li>pick up cake<li>eat the cake</ul>|
 |Feelings|<ul><li>scared</ul>|<ul><li>anxious<li>hopeful</ul>|<ul><li>exhausted<li>satisfied</ul>|
 |Opportunities|<ul><li>have extended hours<li>offer cake ready alerts</ul>|<ul><li>open multiple stores</ul>|<ul><li>offer cake delivery</ul>|
 
+You can augment the journey map by adding a [Storyboard](Tooling/Storyboard.md) where panels align with phases.

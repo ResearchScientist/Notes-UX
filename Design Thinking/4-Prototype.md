@@ -12,7 +12,7 @@
 # Process
 
 - write the desired solution as a [Goal Statement](#Goal%20Statement)
-- draw a [Storyboard](#Storyboard) 
+- draw a [Storyboard](Tooling/Storyboard.md)
 - 
 # Goal Statement
 
@@ -29,11 +29,6 @@ The goal statement
 > Help users go to the gym to become stronger so they can eat heavier cakes.
 
 # Storyboard
-
-Write the scenario in one sentence.
-
-The storyboard visualizes the user's steps through that scenario.
-
 
 
 

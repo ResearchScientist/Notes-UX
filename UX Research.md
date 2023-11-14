@@ -112,7 +112,44 @@ Identify by
 
 # Methods
 
-- ethnography : contextual environmental immersion
-	- observations
-	- interviews
-- information architecture
+Example of methods per phase.
+It is not necessary to use each method. Only use what is appropriate for the project.
+
+## Discover
+
+Goal : Validate and discard assumptions.
+
+- constraint inventory
+- diary studies
+- field studies
+- observations
+- user interviews
+- stakeholder interviews
+## Explore
+
+Goal : Understand the problem.
+
+- card sorting
+- competitive analysis
+- design reviews
+- journey mapping
+- persona building
+- task analysis
+## Test
+
+Goal : Confirm design solves the user problem.
+
+- accessibility evaluation
+- benchmark testing
+- qualitative testing
+- track usability
+## Listen
+
+Goal : Understand new problems.
+
+- analytics review
+- FAQ reviews
+- search log analysis
+- surveys
+- usability bug reviews
+
