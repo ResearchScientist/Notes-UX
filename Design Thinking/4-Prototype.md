@@ -4,10 +4,6 @@ Prototypes are used to
 - assess feasibility
 - test design effectiveness
 
-- [ ] information architecture
-- [ ] prototypes
-	- [ ] low fi paper
-	- [ ] low fi digital
 - [ ] deceptive patterns
 
 # Process
