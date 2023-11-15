@@ -3,6 +3,7 @@
 |Accessibility|Designing environments, products, or services for people with disabilities.|
 |Assistive Technology|Systems that enhance quality of life for people with disabilities.|
 |Competitive Audit|Overview of competitors' strength and weaknesses.|
+|Design System|Collection of components and standards on their use.|
 |Edge Cases|Issues beyond the user's control.|
 |Empathy|The ability to understand someone else's feelings or thoughts in a situation.|
 |Empathy Map|Chart illustrating what is known about a particular user type.|

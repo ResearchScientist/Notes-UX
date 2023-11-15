@@ -24,6 +24,8 @@ Can be
 - rough sketches with pencil or pen
 - precisely measured drawings
 
+Do not include colours, filler text, actual images, or branding.
+
 # Standard Formatting
 
 - lines : represent text
@@ -48,7 +50,6 @@ Can be
 	- pick elements from each wireframe that stood out as most beneficial
 	- mark them or highlight them
 	- document why they stood out
-- if paper was used, take pictures and add to documentation
 - get feedback
-- 
+- if paper was used, take pictures and add to documentation
 
