@@ -52,4 +52,3 @@ Do not include colours, filler text, actual images, or branding.
 	- document why they stood out
 - get feedback
 - if paper was used, take pictures and add to documentation
-

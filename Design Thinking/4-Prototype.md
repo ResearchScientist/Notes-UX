@@ -4,8 +4,6 @@ Prototypes are used to
 - assess feasibility
 - test design effectiveness
 
-- [ ] deceptive patterns
-
 # Process
 
 - write the desired solution as a [Goal Statement](#Goal%20Statement)
@@ -42,10 +40,4 @@ Diagrams include
 - helps determine what information should be included or excluded
 - informs how to organize data
 - easy to iterate
-
-
-# Tree Tests
-
-n = 50 gives 90% Confidence Level with 10% margin of error
-
 
