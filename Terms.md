@@ -19,10 +19,12 @@
 |Problem Statement|Description of the user needs to be addressed.|
 |Prototype|Model that demonstrates the intended functionality.|
 |Primary Research|Research conducted by you.|
+|Research Study|Methodological examination of a group of users and their needs.|
 |Responsive Web Design|Layout dynamically changes to accommodate a change in screen size or orientation.|
 |Retrospective|Collaborative critique of the design sprint.|
 |Secondary Resesarch|Research that uses information obtained by someone else.|
 |Storyboard|Panels that illustrate a user's experience.|
+|Usability Study|Product evaluation and identification of user pain points.|
 |User Group|A set of people with similar interests, goals, and concerns.|
 |User Journey|The series of experiences the user goes through as they interact with a product.|
 |User Story|Fictional one sentence story told from the persona's point of view to inspire and inform design decisions. It introduces the user, an obstacle, and the user goal.|

@@ -7,6 +7,7 @@
 - visual design : brand
 - ux writing : voice
 - ux engineer : delivery
+- equity engineer : inclusivity
 - pm : project management
 
 # Shape

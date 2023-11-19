@@ -1,10 +1,3 @@
-# ux goals
-
-- is it easy to use
-- is it equitable
-- does it delight
-- does it solve the problem
-
 # Portfolio
 
 ## landing page

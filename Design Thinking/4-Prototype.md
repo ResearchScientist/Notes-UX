@@ -76,4 +76,3 @@ Goal is to identify how users interact with the prototype.
 - within software connect digital wireframes
 - choose transitions
 - present to user for testing
-
