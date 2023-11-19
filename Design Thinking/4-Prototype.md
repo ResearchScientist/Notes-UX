@@ -10,6 +10,7 @@ Prototypes are used to
 - draw a [Storyboard](Tooling/Storyboard.md)
 - design the [Information Architecture](#Information%20Architecture)
 - construct [Wireframes](Tooling/Wireframes.md)
+- build [Interactivity](#Interactivity)
 
 # Goal Statement
 
@@ -40,4 +41,39 @@ Diagrams include
 - helps determine what information should be included or excluded
 - informs how to organize data
 - easy to iterate
+
+# Interactivity
+
+Build out the interactive elements of the prototype. You can use paper or digital mockups.
+
+Goal is to identify how users interact with the prototype.
+
+## Paper
+
+**Benefits**
+
+- quick iterations
+- collaborative
+- best in a focus group setting
+
+**Process**
+
+- make cut outs for the various elements
+- make a cut out of the screen
+- layout order of interaction
+- have user touch elements and have a team mate move the elements as a response
+
+## Digital
+
+**Benefits**
+
+- quick iterations
+- can be tested by remote users
+- interactions can be recorded by software
+
+**Process**
+
+- within software connect digital wireframes
+- choose transitions
+- present to user for testing
 
