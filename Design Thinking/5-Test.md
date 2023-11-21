@@ -2,7 +2,7 @@
 # Process
 
 - [Plan](##Plan) a research study
-- [Conduct](##Conduct) a usability study
+- [Conduct](##Conduct) a research study
 - [Analyze](##Analyze) results
 - [Share](##Share) insights
 - modify designs
@@ -26,7 +26,7 @@ The goal of a usability study is to
 
 Concept Testing : early stage product usability study
 
-### Moderated Usability Study
+### Moderated
 
 Moderator guides participants through the study in real time.
 
@@ -40,7 +40,20 @@ Moderator guides participants through the study in real time.
 - moderator can introduce bias
 - participant may not relate to moderator
 
-### Unmoderated Usability Study
+**Process**
+
+- greet, thank, and build rapport with participant
+- inform of the process and their options
+- if they cannot complete a task it is not their fault, it indicates a flaw in the design
+- instruct user to think aloud while they interact with the app and read the prompts
+
+**Questions**
+
+- ask open ended questions
+- ask follow up questions
+- summarize their response
+
+### Unmoderated
 
 Participants test a prototype without any guidance.
 
@@ -53,6 +66,16 @@ Interaction is usually recorded, and footage reviewed at a later time.
 
 **Cons**
 
+- issues cannot be addressed in real time
+- cannot ask clarifying questions in real time
+
+**Process**
+
+Set up automation to instruct, present prompts, and record interaction.
+
+- present prompt 
+- present digital prototype
+- record interaction
 
 ## Analyze
 

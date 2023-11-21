@@ -60,9 +60,33 @@ Answers the question
 
 # Methods
 
-- interviews : individually gather opinions, thoughts, experiences, feelings
-- surveys : same question given to many respondents
-- usability study : product evaluation by testing it on users
+- a/b test : test alternate designs
+- card sort : user organizes items to expose user's mental model
+- clickstream analytics : sequence of pages visited
+- concept testing : concept explained to users for feedback
+- contextual inquiry : collaborative field study between user and researcher
+- desirability study : match designs with attributes
+- diary study : longitudinal use
+- ethnographic study / field study : observe within natural context
+- eye tracking : focus areas
+- feedback : users volunteer information
+- first click test : user stopped after clicking
+- five second test : visual removed after 5s and user asked to describe what they say
+- focus group : moderated discussion or activity
+- formative : methods that determine if a design works or not and why , informs iterations
+- interview : individually gather opinions, thoughts, experiences, feelings
+- moderated : researcher led interaction, can be remote
+- multivariate : multiple combinations of design elements tested simultaneously
+- participatory design : users are given elements to construct their ideal experience
+- retrospective think aloud : users express their thoughts after completing a task
+- summative : methods that assess overall usability , summarize final design
+- survey : same questions given to many respondents
+- think aloud : user expresses their thoughts and motivations as they interact
+- tree test : tests ease of information architecture
+- unmoderated : automated interaction through an app or site
+- usability benchmark : determine baseline through well defined measures
+- usability test : user completes a series of tasks
+- web analytics : clicks page views etc
 
 # Biases
 
@@ -77,6 +101,11 @@ Types of biases and how to overcome them.
 	- identify and articulate your assumptions
 	- large diverse n
 	- consistent interview method
+- friendliness bias : agree with someone they like
+	- ask for honest feedback
+- implicit bias : attitudes and stereotypes attributed to others without our awareness
+	- reflect on our behaviours
+	- ask others to point out our biases
 - primacy bias : memory of first encounter is strongest
 	- make a recording
 	- take detailed notes
@@ -85,9 +114,8 @@ Types of biases and how to overcome them.
 	- make a recording
 	- take detailed notes
 	- consistent interview method
-- implicit bias : attitudes and stereotypes attributed to others without our awareness
-	- reflect on our behaviours
-	- ask others to point out our biases
+- social desirability bias : answers are given in a way to be viewed favorably, positive bias
+	- present a list of responses from other users and ask which response to they most closely agree with
 - sunk cost fallacy : the more invested into a project the more difficult to change
 	- break project into phases
 	- outline evaluation points where you can decide to continue or stop
