@@ -11,6 +11,7 @@
 |Happy Path|A user story with a happy ending.|
 |Human Factors|Variables humans introduce into product interactions.|
 |Information Architecture|Framework diagraming the internal structure, organization, or categorization of a product.|
+|Insight|An observation that helps understand the user or their needs from a new perspective.|
 |Journey Map|An illustration of the user's journey as they progress towards their goal.|
 |Mental Model|User's internal model used for predicting how something should work.|
 |NBU|Next Billion Users are users just beginning to use the web.|

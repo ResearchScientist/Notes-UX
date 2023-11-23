@@ -1,4 +1,3 @@
-
 # Process
 
 - [Plan](##Plan) a research study
@@ -118,6 +117,13 @@ Discuss and consolidate the notes after the observation is complete.
 ## Analyze
 
 Analyze and synthesize the data from the study.
+
+**Steps**
+
+- Gather data and organize it with an [Affinity Diagram](Tooling/Affinity%20Diagram.md).
+- Tally observation occurrences from the table to find patterns.
+- The observations with the highest occurrence rates are themes.
+- Verbalize insights that are based on the data, answer the research questions, are easy to understand, increase empathy for the user experience, and direct explicit action.
 
 ## Share
 
