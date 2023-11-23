@@ -77,6 +77,44 @@ Set up automation to instruct, present prompts, and record interaction.
 - present digital prototype
 - record interaction
 
+### Notes
+
+Take notes when conducting a usability study regardless of it being recorded or not.
+You are taking notes about your own thoughts and observations during the study.
+
+- user's body language
+- facial expressions
+- tone of voice
+- capture user quotes
+
+You can take notes on a sheet of paper, sticky notes, or digitally.
+
+**Table**
+
+|Observation|User 1|User 2|User 3|
+|--|:--:|:--:|:--:|
+|clics on help button|x|||
+|chooses dark theme||x|x|
+|tone positive|x|x||
+|tone negative|||x|
+|confused|x|||
+
+Observations in a table can be colour coded or organized by topic if you are prefilling the table with anticipated user behaviours.
+
+For example
+The first 2 are user actions, the next 2 are tone of voice, the last one is emotion.
+
+Some useful things to observe are
+
+- user actions
+- tone of voice
+- emotion
+- assumptions and expectations
+- reactions to unexpected interactions
+
+Best to have all team members observing the study to take notes.
+Discuss and consolidate the notes after the observation is complete.
+
 ## Analyze
 
 Analyze and synthesize the data from the study.
