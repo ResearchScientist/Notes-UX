@@ -139,6 +139,20 @@ Include
 - conclusions
 - recommendations
 
+### Report
+
+Sections
+
+- summary of research insights and recommendations
+- study details
+- themes
+- insights
+- recommendations
+
+### Presentation
+
+Use a slide deck when presenting.
+
 # User Privacy
 
 Benefits of maintaining privacy
