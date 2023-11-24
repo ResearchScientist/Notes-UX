@@ -4,7 +4,7 @@
 - [Conduct](##Conduct) a research study
 - [Analyze](##Analyze) results
 - [Share](##Share) insights
-- modify designs
+- [Modify](#Modify) designs
 
 ## Plan
 
@@ -136,7 +136,7 @@ Include
 
 - methods
 - data
-- conclusions
+- insights
 - recommendations
 
 ### Report
@@ -151,7 +151,24 @@ Sections
 
 ### Presentation
 
-Use a slide deck when presenting.
+Use a [Slide Deck](Tooling/Slide%20Deck.md) when presenting.
+
+**Tips**
+
+- have a conversational demeanor
+- weave a memorable story
+- be concise , do not add unnecessary details
+- allow yourself to pause when speaking
+- make eye contact
+
+## Modify
+
+Based on the insights and recommendations presented modify the mockup or prototype.
+
+- address one insight and recommendation at a time
+- you can have multiple mockup variations to address one insight
+- after each is validated you can combine the solutions into the final mockup or prototype
+- validate the final solution
 
 # User Privacy
 
