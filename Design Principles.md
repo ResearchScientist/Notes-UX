@@ -24,3 +24,4 @@ Human visual object perception.
 - urgency : limited time offers
 - scarcity : limited products
 - endless scroll : fear of missing out
+

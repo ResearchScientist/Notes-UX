@@ -10,6 +10,10 @@ Comprised of
 - basic shapes
 - text
 
+Use grayscale for colours.
+Use bars to represent long copy.
+Use relative size and placement to denote hierarchies.
+
 # Medium
 
 Can be

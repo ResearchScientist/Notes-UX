@@ -10,6 +10,7 @@ Prototypes are used to
 - draw a [Storyboard](Tooling/Storyboard.md)
 - design the [Information Architecture](#Information%20Architecture)
 - construct [Wireframes](Tooling/Wireframes.md)
+- construct [Mockups](Tooling/Mockups.md)
 - build [Interactivity](#Interactivity)
 
 # Goal Statement
