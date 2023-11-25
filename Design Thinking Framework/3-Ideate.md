@@ -85,6 +85,6 @@ Sketching exercise in which any idea is valid regardless of feasibility or reali
 
 **Process**
 
-- present [Problem Statement](Design%20Thinking/2-Define.md#Problem%20Statement)
+- present [Problem Statement](Design%20Thinking%20Framework/2-Define.md#Problem%20Statement)
 - allot one minute to sketch a solution
 - repeat for a total of 8 minutes for a total of 8 solutions

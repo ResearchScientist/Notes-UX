@@ -1,10 +1,10 @@
 # Design Thinking
 
-- [Empathise](Design%20Thinking/1-Empathise.md) : discover user needs
-- [Define](Design%20Thinking/2-Define.md) : problem statement
-- [Ideate](Design%20Thinking/3-Ideate.md) : solutions
-- [Prototype](Design%20Thinking/4-Prototype.md) : mvp
-- [Test](Design%20Thinking/5-Test.md) : validate or improve or change
+- [Empathise](Design%20Thinking%20Framework/1-Empathise.md) : discover user needs
+- [Define](Design%20Thinking%20Framework/2-Define.md) : problem statement
+- [Ideate](Design%20Thinking%20Framework/3-Ideate.md) : solutions
+- [Prototype](Design%20Thinking%20Framework/4-Prototype.md) : mvp
+- [Test](Design%20Thinking%20Framework/5-Test.md) : validate or improve or change
 
 # Double Diamond
 

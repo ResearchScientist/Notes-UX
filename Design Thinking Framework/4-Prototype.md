@@ -15,7 +15,7 @@ Prototypes are used to
 
 # Goal Statement
 
-The goal statement describes the solution to the problem defined in the [Problem Statement](Design%20Thinking/2-Define.md#Problem%20Statement).
+The goal statement describes the solution to the problem defined in the [Problem Statement](Design%20Thinking%20Framework/2-Define.md#Problem%20Statement).
 
 The goal statement
 

@@ -108,3 +108,19 @@ Write inclusive copy, remember the audience is not only designers.
 
 - describe what each component is
 - describe when to use it
+## Format
+
+- report
+- website
+
+**Example**
+
+> Website Header
+- content : learn about the language we use
+- design : how do we approach the visual elements
+- components : how to use the building blocks
+- experience : guidelines on how to craft experiences
+- resources
+- voice
+- sounds
+- information architecture
