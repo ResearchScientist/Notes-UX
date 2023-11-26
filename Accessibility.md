@@ -15,3 +15,7 @@
 
 - failed image load
 
+# Motion
+
+- allow user to turn off animation
+- keep animations under 500ms

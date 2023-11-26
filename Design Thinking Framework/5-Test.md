@@ -5,6 +5,8 @@
 - [Analyze](##Analyze) results
 - [Share](##Share) insights
 - [Modify](#Modify) designs
+- [Finalize](#Finalize) designs
+- [Handoff](#Handoff) designs
 
 ## Plan
 
@@ -169,6 +171,24 @@ Based on the insights and recommendations presented modify the mockup or prototy
 - you can have multiple mockup variations to address one insight
 - after each is validated you can combine the solutions into the final mockup or prototype
 - validate the final solution
+
+## Finalize
+
+Determine if designs no longer require iteration
+
+- are real assets and copy being used
+- do the designs represent the user experience
+- do users interact without external guidance
+
+## Handoff
+
+Provide to engineering team
+
+- mockups
+- prototypes
+- specs
+- design system
+
 
 # User Privacy
 

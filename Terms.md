@@ -8,6 +8,7 @@
 |Empathy|The ability to understand someone else's feelings or thoughts in a situation.|
 |Empathy Map|Chart illustrating what is known about a particular user type.|
 |Fidelity|How close a design matches the look and feel of the final product.|
+|Gesture|Tactile interaction, such as tap, scroll, swipe, and zoom.|
 |Goal Statement|Ideal design solution.|
 |Happy Path|A user story with a happy ending.|
 |Human Factors|Variables humans introduce into product interactions.|

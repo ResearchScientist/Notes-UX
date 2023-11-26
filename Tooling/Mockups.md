@@ -18,3 +18,18 @@ Can be
 
 - digital
 - physical
+
+# Style
+
+Use real
+
+- images
+- copy
+
+# Process
+
+- define user flow
+- design each user interaction
+- define interaction triggers
+- include micro-interactions
+- use informative animations
