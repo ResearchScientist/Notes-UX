@@ -30,13 +30,16 @@ for a study include
 - project name
 - duration
 - your role
-- project goal
+- project goal / problem to solve
 - research
+	- method and why
+	- a few examples, not everything you did
 - audience
 - sketches 
 - wire frames
 - user test results
 - final design
+	- include design system
 - learnings
 
 ## copy

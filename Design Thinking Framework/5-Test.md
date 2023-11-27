@@ -189,7 +189,6 @@ Provide to engineering team
 - specs
 - design system
 
-
 # User Privacy
 
 Benefits of maintaining privacy
