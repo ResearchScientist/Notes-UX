@@ -47,6 +47,12 @@ for a study include
 - be as brief as possible
 - do not be verbose
 - include keywords
+
+## navigation
+
+- include tags
+- include filter
+
 # Brand
 
 - what am I naturally good at

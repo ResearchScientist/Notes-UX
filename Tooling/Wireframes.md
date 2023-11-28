@@ -54,5 +54,6 @@ Do not include colours, filler text, actual images, or branding.
 	- pick elements from each wireframe that stood out as most beneficial
 	- mark them or highlight them
 	- document why they stood out
+	- combine those elements into a new wireframe
 - get feedback
 - if paper was used, take pictures and add to documentation

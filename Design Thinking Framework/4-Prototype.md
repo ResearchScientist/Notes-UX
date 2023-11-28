@@ -43,6 +43,24 @@ Diagrams include
 - informs how to organize data
 - easy to iterate
 
+**A Few Website Structures**
+
+- hierarchical : top down , h1,h2,h3
+- sequential : linear sequence, step by step process
+- matrix : non linear, bi-directional linking
+- database : search + table, filters, tags
+
+**Layout**
+
+- single column : mobile
+- multi column : desktop
+- box layout : grid, images
+- feature image : one prominent image taking up most of space
+- asymmetrical F shape : allows for quick scanning of dense rich sites
+- asymmetrical Z shape : quick scanning of light sites
+- grid of cards : grid with preview to other content, cards can be same or different sizes
+- tiered layer cake : stacked rows, within each row different number of columns, responsive
+
 # Interactivity
 
 Build out the interactive elements of the prototype. You can use paper or digital mockups.
