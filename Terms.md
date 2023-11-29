@@ -10,6 +10,7 @@
 |Fidelity|How close a design matches the look and feel of the final product.|
 |Gesture|Tactile interaction, such as tap, scroll, swipe, and zoom.|
 |Goal Statement|Ideal design solution.|
+|Graceful Degradation|Designing for and with the newest technologies for the best experience then falling back to older tech to bring the closest comparable experience to users without access to the new tech.|
 |Happy Path|A user story with a happy ending.|
 |Human Factors|Variables humans introduce into product interactions.|
 |Information Architecture|Framework diagraming the internal structure, organization, or categorization of a product.|
@@ -20,6 +21,7 @@
 |NBU|Next Billion Users are users just beginning to use the web.|
 |Pain Points|UX issues that frustrate the user and block the user from their goals.|
 |Persona|A representative fictional user.|
+|Progressive Enhancement|Designing core functionality for all users and adding features only as enhancements to the experience for users with access to capable technologies.|
 |Problem Statement|Description of the user needs to be addressed.|
 |Prototype|Model that demonstrates the intended functionality.|
 |Primary Research|Research conducted by you.|

@@ -82,3 +82,6 @@ twitter
 
 medium
 
+# Resume
+
+- link to portfolio in resume

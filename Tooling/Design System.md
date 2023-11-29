@@ -63,6 +63,8 @@ For each component give
 - frameworks
 	- if necessary what frameworks work with the library
 
+You can place all of these components within a UI kit with a tool such as Figma.
+
 # Pattern Library
 
 Collection of UI groups and layouts.
@@ -87,12 +89,14 @@ When building the design system include
 - interaction designer
 - researcher
 - visual designer
+- accessibility expert
 
 If all roles do not exist then at the very least include
 
 - developer
 - interaction designer
 - visual designer
+- accessibility expert
 
 Obtaining an executive sponsor will help with coordinating team efforts, obtaining resources, and communicating the strategic importance of the design system to the rest of the organization.
 
