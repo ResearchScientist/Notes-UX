@@ -31,6 +31,7 @@
 |Secondary Resesarch|Research that uses information obtained by someone else.|
 |Storyboard|Panels that illustrate a user's experience.|
 |Usability Study|Product evaluation and identification of user pain points.|
+|User Experience|A user's cognitive, emotional, behavioural, sensory, and social responses.|
 |User Group|A set of people with similar interests, goals, and concerns.|
 |User Journey|The series of experiences the user goes through as they interact with a product.|
 |User Story|Fictional one sentence story told from the persona's point of view to inspire and inform design decisions. It introduces the user, an obstacle, and the user goal.|
