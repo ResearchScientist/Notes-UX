@@ -85,3 +85,22 @@ medium
 # Resume
 
 - link to portfolio in resume
+
+# Interview
+
+- explain your process for getting from concept to launch
+- what are you passionate about , this helps them understand where you fit best and what direction to help you with
+- what have you learnt along the way from project to project and how have those learnings influenced your next projects
+
+# Freelance
+
+Business Plan
+
+- brand : what do you represent
+- problem : what problems do you solve
+- solution : what is your unique solution
+- target : niche market
+- competition : what is the area like
+- expenses : resources required and budget
+- services : your billing rates
+- strategy : your short term and long term goals, KPIs, OKRs
