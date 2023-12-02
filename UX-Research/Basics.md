@@ -39,3 +39,13 @@ flowchart LR
 	IV --> Primary-DV --> Secondary-DV
 	CV --> Primary-DV
 ```
+
+# Reasoning
+
+Deductive vs Inductive reasoning.
+
+|Reasoning|Begin With|Use For|Method|Process|Answers|
+|--|--|--|--|--|--|
+|Deductive|Theory / Model|Testing|Quantitative|Objective|Who/What|
+|Inductive|Phenomenae|Exploring|Qualitative|Subjective|How/Why|
+
