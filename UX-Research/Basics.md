@@ -48,4 +48,3 @@ Deductive vs Inductive reasoning.
 |--|--|--|--|--|--|
 |Deductive|Theory / Model|Testing|Quantitative|Objective|Who/What|
 |Inductive|Phenomenae|Exploring|Qualitative|Subjective|How/Why|
-
