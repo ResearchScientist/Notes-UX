@@ -13,8 +13,29 @@ for exploratory research
 
 - interviews
 
-Diagram
+# Diagram
 
 Prior to experimentation form a model to describe the expected relationships between the observed behaviours and triggers. This representation helps outline the experimental design.
 
 Update the model as experiment data comes in.
+
+```mermaid
+flowchart LR
+	subgraph IV
+		direction TB
+		A(Learnability) -.- B(Memorability)
+	end
+	subgraph Primary-DV
+		direction TB
+		C(Effectiveness) -.- D(Efficiency)
+	end
+	subgraph Secondary-DV
+		direction TB
+		E(Satisfaction) -.- F(Performance)
+	end
+	subgraph CV
+		G((Familiarity))
+	end
+	IV --> Primary-DV --> Secondary-DV
+	CV --> Primary-DV
+```
