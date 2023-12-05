@@ -3,7 +3,11 @@ Qualitative
 - [Interviews](#Interviews)
 - [Focus Groups](#Focus%20Groups)
 - [Naturalistic Observations](#Naturalistic%20Observations)
+
+Quantitative
+
 - [Surveys](#Surveys)
+- [Experiments](#Experiments)
 
 # Interviews
 
@@ -54,8 +58,6 @@ Closed ended questions can be used for quantifying user responses for statistica
 
 Make sure to
 - pretest the survey
-- 
-
 ## Uses
 
 - Same survey can be administered in a cyclic schedule thus providing data about user patterns over time.
@@ -83,6 +85,12 @@ Other concepts that can be tested with other scales include
 - Trust
 - Attitute
 - Intention To Use
+
+# Experiments
+
+Used for testing a hypothesis.
+
+- vary only one variable per experiment
 
 # Types & Uses
 
