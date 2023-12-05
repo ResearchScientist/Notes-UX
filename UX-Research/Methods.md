@@ -2,6 +2,8 @@ Qualitative
 
 - [Interviews](#Interviews)
 - [Focus Groups](#Focus%20Groups)
+- [Naturalistic Observations](#Naturalistic%20Observations)
+- [Surveys](#Surveys)
 
 # Interviews
 
@@ -32,6 +34,55 @@ Agenda
 **10 min** Stimulating activity for engagement
 **60 min** Main topics
 **10 min** Conclusion
+
+# Naturalistic Observations
+
+Observing users within their environment and context.
+
+Make sure to
+- explain scope
+- document user permissions
+- anonymize user data
+
+Observer may be unable to obtain direct user feedback during the observation so be aware of biases and assumptions when taking notes about user actions.
+
+# Surveys
+
+Can contain both open ended and closed ended questions.
+
+Closed ended questions can be used for quantifying user responses for statistical analysis.
+
+Make sure to
+- pretest the survey
+- 
+
+## Uses
+
+- Same survey can be administered in a cyclic schedule thus providing data about user patterns over time.
+- Stand alone surveys can be used to validate initial insights.
+
+## Scales
+
+For closed ended questions that ask for a user to respond with a rating there are many scales.
+
+- NPS : net promoter score (1 to 10)
+	- How likely are you to recommend this product
+	- promoters 9 to10
+	- detractors 0 to 6
+- SUS : system usability scale (1 highly disagree to 5 highly agree)
+	- I found it easy to use.
+	- I found it to be complex.
+	- score converted to 0 to 100
+	- some questions are inverted
+- CSAT : customer satisfaction scale (1 very unsatisfied to 5 very satisfied)
+	- How satisfied are you overall with the app
+
+Other concepts that can be tested with other scales include
+
+- Ease of Use
+- Trust
+- Attitute
+- Intention To Use
 
 # Types & Uses
 
