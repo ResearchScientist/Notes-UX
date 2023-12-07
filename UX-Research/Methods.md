@@ -8,6 +8,8 @@ Quantitative
 
 - [Surveys](#Surveys)
 - [Experiments](#Experiments)
+- [Behavioural](#Behavioural)
+- [Psychophysiological](#Psychophysiological)
 
 # Interviews
 
@@ -91,6 +93,51 @@ Other concepts that can be tested with other scales include
 Used for testing a hypothesis.
 
 - vary only one variable per experiment
+
+# Behavioural
+
+Measures
+
+- task success : binary (success, fail) or by levels (success,  fail, abandon, time exceeded)
+- time on task : duration
+- error : number of errors
+- efficiency : relative to optimal path
+- learnability : time and effort required to reach high proficiency
+
+# Psychophysiological
+
+Physiological measures used for gaining insights into a user's mental state.
+
+## Attention
+
+**Eye Tracking**
+
+- fixations : gaze stops on object for 100 ms to 300 ms
+- saccades : movement between fixations
+- data viz : gaze plots, heatmaps, opacity maps
+- area of interest (aoi) : region research question is focused on
+- metrics : measures
+	- dwell time : gaze duration on aoi
+	- visits : number of times aoi was fixated or % of time on aoi vs entire stimulus
+	- first fixation time : duration leading to initial aoi visit
+
+## Cognition
+
+Information Processing
+
+**Cognitive Effort**
+
+- pupil dilation : dilate with increased attention, cognitive load, arousal
+- fMRI ; low temporal resolution , high spatial resolution
+- EEG : high temporal resolution, low spatial resolution
+
+|Hz|Frequency|State|
+|--|--|--|
+|> 30|Gamma|active information processing, emotion|
+|13 to 30|Beta|alert and attentive|
+|8 to 12|Alpha|relaxed, awake and eyes closed|
+|4 to 8|Theta|short term memory task, internal focus, meditation|
+|< 4|Delta|deep sleep|
 
 # Types & Uses
 
