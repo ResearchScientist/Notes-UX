@@ -139,6 +139,34 @@ Information Processing
 |4 to 8|Theta|short term memory task, internal focus, meditation|
 |< 4|Delta|deep sleep|
 
+## Emotion
+
+**Universal Emotions**
+
+- anger
+- disgust
+- fear
+- happiness
+- sadness
+- surprise
+
+arousal : emotional intensity
+valence : negative to positive spectrum from unpleasant to pleasant
+
+**Arousal Measures**
+
+- blood pressure
+- electrodermal activity
+- eeg
+- heart rate
+
+**Valence Measures**
+
+- eeg
+- facial analysis software and expression recognition
+- facial electromyography
+
+
 # Types & Uses
 
 |Type|When|Duration|Questions|Outcomes|
