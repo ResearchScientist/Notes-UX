@@ -28,9 +28,20 @@ Best guess at a possible solution to a design problem.
 
 If { action } then { outcome }.
 
-**Example**
+**Example** Simple
 
 > If Pusheen works out every day then he will be strong enough to eat the heavier cakes.
+
+**Example** Robust
+
+> Engineering weights that speak motivational messages to the user will encourage the user to continue working out because
+> some user's
+> - loose interest
+> - have self deprecating thoughts
+> - like company
+> - benefit from encouragement
+
+The robust example includes a list of assumptions. These should be validated.
 
 # Human Factors
 
